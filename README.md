@@ -7,14 +7,14 @@
 #### Output
 
 ![1](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/1.PNG)
-![2](2.png)
-![3](3.png)
-![4](4.png)
-![5](5.png)
+![2](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/2.PNG)
+![3](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/3.PNG)
+![4](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/4.PNG)
+![5](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/5.PNG)
 
 #### Given Input Task 2
 
-![7](7.png)
+![7](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/7.PNG)
 
 #### Output
-![8](8.png)
+![8](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/8.PNG)
