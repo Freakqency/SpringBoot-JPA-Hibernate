@@ -2,7 +2,7 @@
 
 #### Given Input Task 1
 
-![6](6.png "6")
+![6](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/6.PNG?raw=true)
 
 #### Output
 
