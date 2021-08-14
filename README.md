@@ -6,7 +6,7 @@
 
 #### Output
 
-![1](1.png)
+![1](https://github.com/Freakqency/SpringBoot-JPA-Hibernate/blob/master/1.PNG)
 ![2](2.png)
 ![3](3.png)
 ![4](4.png)
